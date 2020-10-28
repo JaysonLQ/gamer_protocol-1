@@ -1,6 +1,6 @@
 # GAMER.FINANCE
-<div align="center">
-<img src="https://i.loli.net/2020/10/27/3Yai2mAUwIqdLsx.png"/>
+<div align=center>
+<img src="https://i.loli.net/2020/10/28/s6VPcDk1n2gJuf9.png" width = "200">
 </div>
 GAMER is a community-centered DeFi project by everyone, for everyone. The decisions and actions of GAMER are made by its members and community to assure equity and fairness for all. GAMER is a new form of governance system. A think-pump. A place where innovation, entrepreneurship, and technological advancements are the priority, creating a much needed utility focus to the blockchain space. The value of GAMER is determined by the contribution and innovation of the community as a whole.
 
